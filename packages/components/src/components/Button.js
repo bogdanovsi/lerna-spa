@@ -1,7 +1,7 @@
 import React from 'react'
 
 const buttonStyle = {
-  padding: '10px 20px'
+  padding: '15px 20px'
 };
 
 const Button = (props) => {
